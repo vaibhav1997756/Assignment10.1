@@ -1,0 +1,134 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 3px;
+}
+
+.flex-element {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/847/342/380/galaxy-space-digital-art-abstract-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-1 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/778/345/127/abstract-fractal-symmetry-digital-art-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-2 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/957/571/793/lotus-flowers-fractal-abstract-flowers-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-3 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/817/541/108/fractal-abstract-fractal-flowers-flowers-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 3px;
+}
+
+.flex-element4 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/1001/958/449/abstract-fractal-fractal-flowers-glowing-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-5 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/23/478/340/fractal-abstract-digital-art-bokeh-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-6 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/356/110/401/artwork-digital-art-render-3d-fractal-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-7 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/367/698/377/abstract-fractal-flowers-bokeh-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-container3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 3px;
+}
+
+.flex-element8 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/159/24/972/blue-purple-liquid-digital-art-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-9 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/116/487/771/abstract-fractal-flowers-fractal-flowers-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-10 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/330/146/490/abstract-digital-art-3d-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-element-11 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/377/678/367/colorful-digital-art-geometry-circle-wallpaper-thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ph {
+    text-align: center;
+    color: blue;
+    text-decoration: darkblue;
+}
